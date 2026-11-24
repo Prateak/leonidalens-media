@@ -26,3 +26,4 @@ day1_01_sorry_lady, day1_02_swamp_run, day1_03_i_miss_you (2026-11-21)
 Instagram: day1_02_swamp_run, day1_03_i_miss_you, day1_04_haircut, day1_05_apple, day1_06_mandy, day2_apple_again, day2_steal_car, day2_hair_physics, day3_gym, day3_baseball_card, day3_art
 YouTube (Unhinged): day1_01_sorry_lady, day1_02_swamp_run, day1_03_i_miss_you, day2_apple_again, day2_steal_car, day2_hair_physics, day3_gym, day3_baseball_card, day3_art
 Day 4 picks (not posted yet): day4_gta5_or_gta6, day4_it_worked, day4_two_million, day4_money_bag
+Day 5 picks (not posted yet): day5_safe_code, day5_final_mission
